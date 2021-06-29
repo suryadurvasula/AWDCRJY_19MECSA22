@@ -1,0 +1,14 @@
+import java. io. *; 
+class Even 
+{ 
+public static void main (String args[]) 
+{ 
+int a=1124; 
+{
+if((a&1)==0) 
+System. out. println("even") ;
+else 
+System. out. println("odd");
+}
+}
+}
